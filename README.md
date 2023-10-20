@@ -1,6 +1,6 @@
 # pes_fmul
 
-IEEE 754 Floating Point Multiplier
+IEEE 754 Floating Point Multiplier (32 bit)
 
 ## Yosys
 
