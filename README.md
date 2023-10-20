@@ -24,7 +24,7 @@ IEEE 754 Floating Point Multiplier (32 bit)
 
 ## GLS
 
-![image](https://github.com/mauriya0202/pes_fmul/assets/112739882/d8f0e037-ad8a-45f2-9255-34991b233122)
-![image](https://github.com/mauriya0202/pes_fmul/assets/112739882/15d10d65-a20d-4686-8ef0-653e4b35a62e)
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/369a9e05-8553-455b-942b-334bf516d16b)
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/a5e58302-c637-4a1b-b47b-b3e169d793f7)
 
 We can see that the gate level simulation matches the behavioral simulation
