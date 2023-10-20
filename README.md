@@ -2,6 +2,10 @@
 
 IEEE 754 Floating Point Multiplier (32 bit)
 
+![image](https://github.com/mauriya0202/pes_fmul/assets/112739882/01c2da2a-5d05-4c9d-b19e-83135a26f7ba)
+![image](https://github.com/mauriya0202/pes_fmul/assets/112739882/587ef16d-5f0d-485a-8244-b51b64ccbbe9)
+
+
 ## Yosys
 
 
